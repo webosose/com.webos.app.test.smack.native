@@ -1,0 +1,10 @@
+{
+    "id": "com.webos.app.test.smack.native",
+    "version": "1.0.0",
+    "vendor": "LGERP",
+    "type": "native",
+    "main": "smack_native",
+    "title": "SMACK test native",
+    "icon": "icon.png",
+    "requiredPermissions" : ["applications"]
+}
